@@ -47,5 +47,5 @@ This project is built for **ethical use cases** like OSINT, bug bounty recon, an
 Clone the repo and install requirements:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/OnlyAstraa/CreepScan.git
+cd CreepScan
